@@ -8,3 +8,5 @@ To use [Bootstrap](https://getbootstrap.com/) in React, we can use use [`react-b
 Go here [Test with React Bootstrap](https://github.com/ntung/react-bootstrap-test), we can learn how to employ React Bootstrap package into our React apps.
 
 Go here [Test with Reactstrap](https://github.com/ITersDesktop/reactstrap-test), we can learn how to make use of Reactstrap package into our React apps.
+
+Another project [learn react bootstrap](https://github.com/ITersDesktop/learn-react-bootstrap) created with Vite + React. It has a nagivation bar.
